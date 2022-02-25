@@ -1,10 +1,10 @@
 a { color: green;}
 body{
   display:flex;
+  flex-direction: column；
 }
 main{
   display:flex;
-  flex-direction: column；
   flex: auto；
 }
 aside{
