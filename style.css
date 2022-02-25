@@ -3,15 +3,15 @@ color: green;
 }
 body{
 display:flex;
-flex-direction: column；
+flex-direction: column;
 }
 main{
 display:flex;
-flex: auto；
+flex: auto;
 }
 aside{
-flex: 1
+flex: 1;
 }
 article{
-flex: 3
+flex: 3;
 }	
