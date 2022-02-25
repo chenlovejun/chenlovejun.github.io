@@ -3,7 +3,7 @@ color: green;
 }
 body{
 display:flex;
-flex-direction: column；
+flex-direction: row；
 }
 main{
 display:flex;
