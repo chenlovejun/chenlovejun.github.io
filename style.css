@@ -5,4 +5,11 @@ body{
 main{
   display:flex;
   flex-direction: column；
+  flex: auto；
+}
+aside{
+  flex: 1
+}
+article{
+flex: 3
 }
