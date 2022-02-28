@@ -11,6 +11,7 @@ flex:auto;
 }
 aside{
 flex: 1;
+margin-down:100px;
 }
 article{
 flex: 3;
