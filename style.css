@@ -12,7 +12,6 @@ flex:auto;
 aside{
 flex: 1;
 margin-down: 100px;
-position: absolute;
 }
 article{
 flex: 3;
@@ -20,5 +19,8 @@ flex: 3;
 header{
   display:flex;
   flex:auto;
-  position: relative;
+}
+iframe{
+  height: 600px;
+  width: 1200px;
 }
